@@ -1,0 +1,3 @@
+
+ejemplos de weas raras parte 2 dado que no le había dado permisos a git lol
+corrijiendo errores del ejemplo txt al subirlo a github, idk que pasó
